@@ -13,7 +13,7 @@ Desde os 14 anos de idade aprendendo e praticando, tive contato com diversas tec
 
 
 
-Mas foi da área de desenvolvimento que gostei.
+Mas foi da área de desenvolvimento(programação) que gostei.
 
 
 
