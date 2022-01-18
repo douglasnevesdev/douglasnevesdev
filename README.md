@@ -5,7 +5,7 @@ Meu nome é Douglas Neves, programador full stack.
 
 
 
-Sou formado em Análise e desenvolvimento de sistemas e apaixonado na criação de sistemas(softwares) e sites.
+Sou formado em Análise e desenvolvimento de sistemas e apaixonado na criação de sistemas(softwares), aplicativos e sites.
 
 
 
