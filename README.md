@@ -1,4 +1,4 @@
-![alt text](https://github.com/douglasneves-net/douglasneves-net/blob/main/foto.png?raw=true)
+![alt text](https://github.com/douglasneves-net/douglasneves-net/blob/main/yt-capa.jpg)
 <div align="center">
 Bem-vindo 👋
 
