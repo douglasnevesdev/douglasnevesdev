@@ -34,8 +34,4 @@ Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.
 
 ## 🚀 Trabalho   
 Estou trabalhando como desenvolvedor front-end/back-end no Centro de São Paulo (Sé)
-
-
-  
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasneves-net&show_icons=true&theme=dracula&count_private=true)
   
