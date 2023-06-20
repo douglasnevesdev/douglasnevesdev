@@ -33,7 +33,9 @@ Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=douglasneves-net&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasneves-net&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=douglas-neves&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Trabalho   
 Estou trabalhando como desenvolvedor front-end/back-end no Centro de São Paulo (Sé)
