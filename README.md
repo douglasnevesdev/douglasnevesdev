@@ -31,6 +31,9 @@ Mas foi da área de desenvolvimento(programação) que gostei.
 </div><br/>
 Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.js, ReactJS, React Native, CMS Joomla, PHP e todo ecossistema por volta dessas tecnologias.
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=douglasneves-net&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasneves-net&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Trabalho   
 Estou trabalhando como desenvolvedor front-end/back-end no Centro de São Paulo (Sé)
