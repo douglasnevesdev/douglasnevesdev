@@ -48,7 +48,7 @@ Mas foi da área de desenvolvimento(programação) que gostei.
   <img align="center" alt="xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
   <img align="center" alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br/>
-Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.js, ReactJS, React Native, CMS Joomla, PHP e todo ecossistema por volta dessas tecnologias.
+Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.js, NestJS (Express/Fastify), ReactJS, NestJS, React Native (Expo), CMS Joomla, PHP e todo ecossistema por volta dessas tecnologias.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=douglasneves-net&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
