@@ -1,5 +1,5 @@
 ![alt text](https://github.com/douglasneves-net/douglasneves-net/blob/main/yt-capa.jpg)
-<div align="center">
+<div>
 Bem-vindo 👋
 
 
