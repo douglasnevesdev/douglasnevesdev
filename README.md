@@ -50,9 +50,6 @@ Mas foi da área de desenvolvimento(programação) que gostei.
 </div><br/>
 Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.js, NestJS (Express/Fastify), ReactJS, NestJS, React Native (Expo), CMS Joomla, PHP e todo ecossistema por volta dessas tecnologias.
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=douglasneves-net&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=douglasneves-net&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
