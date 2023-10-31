@@ -21,8 +21,8 @@ Mas foi da área de desenvolvimento(programação) que gostei.
 ## ⚡ Tecnologias
 Node.js | React | React Native | Expo | Next.js | Express | Fastify | Nest.js | AWS | S3 | SES | SNS | CloudWatch | PHP | Laravel | CMS | Headless CMS | Docker
 
-Hoje estou focado no desenvolvimento Web/Mobile Full Stack com Javascript, Node.js, NestJS (Express/Fastify), ReactJS, NestJS, React Native (Expo), CMS Joomla, PHP e todo ecossistema por volta dessas tecnologias.
+Focado no desenvolvimento Back-End (Node.js/Nest.js) e Front-End (Next.js/Expo) e todo ecossistema por volta dessas tecnologias, como AWS/Docker.
 
 ## 🚀 Trabalho   
-Estou trabalhando como desenvolvedor front-end/back-end no Centro de São Paulo (Sé)
+Estou trabalhando como desenvolvedor back-end/front-end no Centro de São Paulo (Sé)
   
